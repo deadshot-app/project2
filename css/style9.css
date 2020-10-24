@@ -1,0 +1,38 @@
+
+.navbar-home {
+	border-radius: 0px;
+    margin-bottom: 0px;
+    height: 750px;
+    /*padding-top: 25px;*/
+   
+}
+a img {
+	margin-top: -13px;
+}
+.page {
+	margin-top: 200px;
+	color: white;
+}
+.footer {
+	margin-top: 10px;
+	background-color: #811818;
+	color: white;
+	padding-top: 20px;
+	height: 60px;
+}
+#icons ul {
+	list-style: none;
+}
+#icons ul li {
+	display: inline-block;
+	cursor: pointer;
+	/*margin: 26px 21px;*/
+	margin-left: 20px;
+}
+#icons img {
+	width: 20px;
+	height: 20px;
+}
+body {
+	background-color: lightgrey;
+}
